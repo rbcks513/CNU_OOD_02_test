@@ -1,3 +1,3 @@
-# CNU_OOD_02_12
+# CNU_OOD_02_test
 practice 201027 OOD_02
 201602826
