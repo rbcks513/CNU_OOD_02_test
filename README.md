@@ -1,0 +1,2 @@
+# CNU_OOD_02_12
+practice 201027 OOD_02
